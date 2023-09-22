@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Space+Mono&family=Tourney:wght@500&display=swap');
+@import url();
+
+body {
+    font-family: 'Tourney', cursive;
+    text-align: center;
+}
+
+a {
+    width: 148px;
+  }
+  
+.btn, .btn-info {
+    margin-top: 20px;
+    margin-left: 20px;
+
+  }
