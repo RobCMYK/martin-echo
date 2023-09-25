@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Space+Mono&family=Tourney:wght@500&display=swap');
-@import url();
+
 
 body {
     font-family: 'Tourney', cursive;
     text-align: center;
+    background-image:url("https://wallpapers.com/images/hd/iconic-vaporwave-neon-city-41duxbnaacsy4mr5.jpg");
 }
+
+.headText {
+  color: purple;
+  font-weight: bold;
+
+}
+
 
 a {
     width: 148px;
@@ -14,4 +22,5 @@ a {
     margin-top: 20px;
     margin-left: 20px;
 
+    
   }
