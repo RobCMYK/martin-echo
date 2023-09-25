@@ -1,25 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
 
 
 body {
-  font-family: 'Tourney', cursive;
-  
   text-align: center;
   background-image:url("https://wallpapers.com/images/hd/iconic-vaporwave-neon-city-41duxbnaacsy4mr5.jpg");
 }
 
 .headText {
+  font-family: 'Tourney', cursive;
   color: purple;
 
 }
 
+h7 {
+  font-size: 120%;
+}
 
 a {
   width: 148px;
+  color:purple;
 }
 
 
 .btn, .btn-info {
+  font-family: 'Tourney', cursive;
+  
   margin-top: 20px;
   margin-left: 20px;
 
